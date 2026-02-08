@@ -8,28 +8,14 @@ Example of my work can be found on GitHub, where I maintain repositories for eac
    
 ✨ Check my **pinned repos** for live demos & latest commits!
 
-## 🛠️ Tools I Use
-
-| Category | Tech Stack |
-|----------|------------|
-| Languages | Python, Java, SQL, C++ |
-| Frameworks | PyTorch, TensorFlow, Keras, FastAPI, Flask |
-| Dev Tools | VS Code, Google Colab, Kaggle, Linux CLI |
-| Other | CUDA/GPU optimization, web scraping, TTS/OCR |
-
 ## 📬 Reach Me
 
-💬 **GitHub Issues/Discussions**: Open one [here](https://github.com/yourusername/yourrepo/issues)!
+✉️ **Email**: [kunaldebnathofficial843@gmail.com](kunaldebnathofficial843@gmail.com)
 
-✉️ **Email**: [your-email@domain.com](mailto:your-email@domain.com) *(add your real one)*
+🐦 **Twitter/X**: [click here](https://x.com/JDX1KUNAL)
 
-🐦 **Twitter/X**: [@JD_X1_AI](https://twitter.com/JD_X1_AI) *(link your handle)*
-
-💼 **LinkedIn**: [linkedin.com/in/jd-x1](https://linkedin.com/in/jd-x1) *(update with yours)*
+💼 **LinkedIn**: [click here](https://www.linkedin.com/in/kunal-debnath-212255237/) 
 
 🌐 **Portfolio**: Coming soon – watch this space! ✨
-
-👀 **Visitor Count**: 
-![Visitor Count](https://profile-counter.glitch.me/{KUNALDEBNATH}/count.svg)
 
 ⭐ **Star this repo** if you find it magical! 🚀
