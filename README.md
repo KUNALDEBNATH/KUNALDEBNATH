@@ -30,6 +30,6 @@ Example of my work can be found on GitHub, where I maintain repositories for eac
 🌐 **Portfolio**: Coming soon – watch this space! ✨
 
 👀 **Visitor Count**: 
-![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{KUNALDEBNATH}/count.svg)
 
 ⭐ **Star this repo** if you find it magical! 🚀
