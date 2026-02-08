@@ -1,26 +1,20 @@
-☄️ Who Am I?
-🚀 JD-X1: AI/ML Engineer & Developer from Madurai, Tamil Nadu.
+Hey there!
+**I'm Kunal Debnath, LLM Enginner and Gen AI researcher also specialized in object detection and image captioning**
 
-✨ Expertise: Real-time object detection (RF-DETR, YOLO), conversational AI (JD Assistant with FastAPI + LLaMA), OCR/TTS integration, LLM fine-tuning (llama3.2, Mistral).
-
-📊 Passions: Building multi-modal AI pipelines, neural architectures (CNN, ViT, Transformers), web scraping, & creative AI UIs.
+Example of my work can be found in github, where I maintain the repositories of my each project work
 
 ⚡ What I'm Currently Working On?
-🔮 JD Conversational AI: Enhancing with advanced reasoning, memory, & multi-sensory inputs (voice/vision).
-
-🎯 RF-DETR Optimization: Real-time detection pipelines with GPU acceleration & LoRA fine-tuning.
-
-🧠 LLM Projects: Custom Mistral/llama3.2 models for speech-to-object workflows & AutoML automation.
-
+   Implementing VLM in edge device for image captioning
+   
 ✨ Check my pinned repos for live demos & latest commits!
 
 🛠️ Tools I Use
 Category	Tech Stack
-Languages	Python, JavaScript, SQL
-Frameworks	PyTorch, TensorFlow, FastAPI, Flask
-AI/ML	RF-DETR, YOLO, LLaMA, Mistral, LoRA/RLHF
+Languages	Python, Java, SQL, C++
+Frameworks	PyTorch, TensorFlow, Keras, FastAPI, Flask
 Dev Tools	VS Code, Google Colab, Kaggle, Linux CLI
 Other	CUDA/GPU optimization, web scraping, TTS/OCR
+
 📬 How to Reach Me?
 💬 GitHub Issues/Discussions: Open one here!
 
