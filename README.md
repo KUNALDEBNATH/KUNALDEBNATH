@@ -1,31 +1,35 @@
 Hey there!
 
-**I'm Kunal Debnath, LLM Enginner and Gen AI researcher also specialized in object detection and image captioning**
+**I'm Kunal Debnath, an LLM Engineer and GenAI researcher specializing in object detection and image captioning.**
 
-Example of my work can be found in github, where I maintain the repositories of my each project work
+Example of my work can be found on GitHub, where I maintain repositories for each of my projects.
 
-⚡ Currently working on implementing VLM in edge devices for image captioning
+⚡ **Currently working on** implementing VLM in edge devices for image captioning
    
-✨ Check my pinned repos for live demos & latest commits!
+✨ Check my **pinned repos** for live demos & latest commits!
 
-🛠️ Tools I Use
-Category	Tech Stack
-Languages	Python, Java, SQL, C++
-Frameworks	PyTorch, TensorFlow, Keras, FastAPI, Flask
-Dev Tools	VS Code, Google Colab, Kaggle, Linux CLI
-Other	CUDA/GPU optimization, web scraping, TTS/OCR
+## 🛠️ Tools I Use
 
-📬 How to Reach Me?
-💬 GitHub Issues/Discussions: Open one here!
+| Category | Tech Stack |
+|----------|------------|
+| Languages | Python, Java, SQL, C++ |
+| Frameworks | PyTorch, TensorFlow, Keras, FastAPI, Flask |
+| Dev Tools | VS Code, Google Colab, Kaggle, Linux CLI |
+| Other | CUDA/GPU optimization, web scraping, TTS/OCR |
 
-✉️ Email: [your-email@domain.com] (add your real one)
+## 📬 Reach Me
 
-🐦 Twitter/X: [@JD_X1_AI] (link your handle)
+💬 **GitHub Issues/Discussions**: Open one [here](https://github.com/yourusername/yourrepo/issues)!
 
-💼 LinkedIn: [linkedin.com/in/jd-x1] (update with yours)
+✉️ **Email**: [your-email@domain.com](mailto:your-email@domain.com) *(add your real one)*
 
-🌐 Portfolio: Coming soon – watch this space! ✨
+🐦 **Twitter/X**: [@JD_X1_AI](https://twitter.com/JD_X1_AI) *(link your handle)*
 
-👀 Visitor Count:
-⭐ Star this repo if you find it magical! 🚀
+💼 **LinkedIn**: [linkedin.com/in/jd-x1](https://linkedin.com/in/jd-x1) *(update with yours)*
 
+🌐 **Portfolio**: Coming soon – watch this space! ✨
+
+👀 **Visitor Count**: 
+![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
+
+⭐ **Star this repo** if you find it magical! 🚀
