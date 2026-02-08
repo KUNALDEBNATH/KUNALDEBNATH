@@ -4,8 +4,7 @@ Hey there!
 
 Example of my work can be found in github, where I maintain the repositories of my each project work
 
-⚡ What I'm Currently Working On?
-   Implementing VLM in edge device for image captioning
+⚡ Currently working on implementing VLM in edge devices for image captioning
    
 ✨ Check my pinned repos for live demos & latest commits!
 
