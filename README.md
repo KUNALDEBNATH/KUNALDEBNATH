@@ -17,9 +17,10 @@ Examples of my work can be found in GitHub, where I maintain repositories for ea
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2396DF8D.svg?&style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![Ollama](https://img.shields.io/badge/Ollama-%2312B3C3.svg?&style=flat&logo=ollama&logoColor=white)](https://ollama.ai/)
 [![LoRA](https://img.shields.io/badge/LoRA-%23FF6B6B.svg?&style=flat&logo=github&logoColor=white)](https://huggingface.co/docs/peft/main/en/conceptual_guides/lora)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23270000.svg?&style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Docker](https://img.shields.io/badge/Docker-%230DB7ED.svg?&style=flat&logo=docker&logoColor=white)](https://docker.com/)
