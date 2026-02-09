@@ -1,6 +1,6 @@
 Hey there!
 
-**I'm Kunal Debnath, an LLM Engineer and GenAI researcher specializing in object detection and image captioning.**
+**I'm Kunal Debnath, LLM Engineer and GenAI researcher also specialized in object detection and image captioning.**
 
 Examples of my work can be found in GitHub, where I maintain repositories for each of my projects.
 
