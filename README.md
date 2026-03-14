@@ -11,7 +11,6 @@ Examples of my work can be found in GitHub, where I maintain repositories for ea
 
 ### Tools & Frameworks
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6B35.svg?&style=flat&logo=TensorFlow&logoColor=white)](https://tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat&logo=Keras&logoColor=white)](https://keras.io/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2396DF8D.svg?&style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
